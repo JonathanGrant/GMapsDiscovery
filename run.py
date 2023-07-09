@@ -44,3 +44,7 @@ def run(zip_code, keyword):
 
     places = query_places(zip_code, keyword, api_key)
     update_file(places, f'{zip_code}_{keyword}.txt')
+
+for zip in ["10001"]:
+    for kw in ["cafe", "climbing", "restaurant"]:
+        run(zip, kw)
