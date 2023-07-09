@@ -24,7 +24,7 @@ jobs:
     - name: Run script
       run: python run.py
       env:
-        GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+        GMAPS_API: ${{ secrets.GMAPS_API }}
 
     - name: Commit and push if it changed
       run: | 
