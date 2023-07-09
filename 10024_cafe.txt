@@ -58,3 +58,4 @@ Peaky Barista, 667 Columbus Ave, New York, NY 10025, United States, United
 Viand Cafe, 2130 Broadway, New York, NY 10023, United States, United
 Cafe Bee, 239 W 72nd St, New York, NY 10023, United States, United
 Bagels & Co, 391 Amsterdam Ave, New York, NY 10024, United States, United
+Mila Cafe, 694 Columbus Ave, New York, NY 10025, United States, United

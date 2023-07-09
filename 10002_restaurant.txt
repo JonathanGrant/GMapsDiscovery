@@ -58,3 +58,5 @@ Remedy Diner, 245 E Houston St, New York, NY 10002, United States, United
 Las' Lap, 74 Orchard St, New York, NY 10002, United States, United
 May Kaidee, 215 E Broadway, New York, NY 10002, United States, United
 Dimes, 49 Canal St, New York, NY 10002, United States, United
+Le French Diner, 188 Orchard St, New York, NY 10002, United States, United
+Taverna Di Bacco, 175 Ludlow St, New York, NY 10002, United States, United

@@ -62,3 +62,6 @@ Canteen NYC 饭堂, 52 W 28th St, New York, NY 10001, United States, United
 Tick Tock Diner NY, 481 8th Ave, New York, NY 10001, United States, United
 Mercado Little Spain, 10 Hudson Yards, New York, NY 10001, United States, United
 Frame Gourmet Eatery, 424 W 33rd St, New York, NY 10001, United States, United
+Ramen Cafe, 121 W 29th St, New York, NY 10001, United States, United
+Cicci Di Carne, 398 10th Ave D, New York, NY 10001, United States, United
+El Pollo Verde, 446 W 33rd St, New York, NY 10001, United States, United
