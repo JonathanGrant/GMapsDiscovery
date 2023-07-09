@@ -65,3 +65,6 @@ Caffe Vento, 555 W 38th St, New York, NY 10018, United States, United
 Caffe Bene, 39 W 32nd St, New York, NY 10001, United States, United
 ARVACI coffee, 340 W 37th St, New York, NY 10018, United States, United
 Starbucks, 34 Hudson Yards, New York, NY 10001, United States, United
+Gregorys Coffee, 775 6th Ave, New York, NY 10001, United States, United
+Jack's Stir Brew Coffee, 20 Hudson Yards, New York, NY 10001, United States, United
+Dunkin', 243 9th Ave, New York, NY 10001, United States, United
