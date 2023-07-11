@@ -59,3 +59,6 @@ Viand Cafe, 2130 Broadway, New York, NY 10023, United States, United
 Cafe Bee, 239 W 72nd St, New York, NY 10023, United States, United
 Bagels & Co, 391 Amsterdam Ave, New York, NY 10024, United States, United
 Mila Cafe, 694 Columbus Ave, New York, NY 10025, United States, United
+Cafe Lalo, 201 W 83rd St, New York, NY 10024, United States, United
+Petrie Court Café, 1000 5th Ave, New York, NY 10028, United States, United
+Charlotte Cafe, 2541 Broadway, New York, NY 10025, United States, United
