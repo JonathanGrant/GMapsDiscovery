@@ -12,8 +12,8 @@ def query_places(zip_code, keyword, api_key):
     while True:
         response = requests.get(url)
         data = json.loads(response.text)
-        places.extend(data['results'])
-        
+        places.extend([p for p in data['results'] if zip_code in p['formatted_address']])
+
         if 'next_page_token' not in data:
             break
         
@@ -46,5 +46,5 @@ def run(zip_code, keyword):
     update_file(places, f'{zip_code}_{keyword}.txt')
 
 for zip in ["10001", "10014", "10002", "10024"]:
-    for kw in ["cafe", "climbing", "restaurant"]:
+    for kw in ["cafe", "climbing", "restaurant", "vegan"]:
         run(zip, kw)
