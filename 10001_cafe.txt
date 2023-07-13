@@ -68,3 +68,4 @@ Starbucks, 34 Hudson Yards, New York, NY 10001, United States, United
 Gregorys Coffee, 775 6th Ave, New York, NY 10001, United States, United
 Jack's Stir Brew Coffee, 20 Hudson Yards, New York, NY 10001, United States, United
 Dunkin', 243 9th Ave, New York, NY 10001, United States, United
+COFFEED, 11 W 32nd St, New York, NY 10001, United States, United
