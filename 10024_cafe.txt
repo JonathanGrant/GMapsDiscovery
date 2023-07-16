@@ -62,3 +62,4 @@ Mila Cafe, 694 Columbus Ave, New York, NY 10025, United States, United
 Cafe Lalo, 201 W 83rd St, New York, NY 10024, United States, United
 Petrie Court Café, 1000 5th Ave, New York, NY 10028, United States, United
 Charlotte Cafe, 2541 Broadway, New York, NY 10025, United States, United
+Jacob's Pickles, 509 Amsterdam Ave, New York, NY 10024, United States, United
