@@ -45,3 +45,6 @@ French Roast, 2340 Broadway, New York, NY 10024, United States, United
 Celeste, 502 Amsterdam Ave, New York, NY 10024, United States, United
 UNO Pizzeria & Grill, 432 Columbus Ave, New York, NY 10024, United States, United
 Bareburger, 2233 Broadway, New York, NY 10024, United States, United
+Mexikosher, 100 W 83rd St, New York, NY 10024, United States, United
+The Viand, 517 Columbus Ave, New York, NY 10024, United States, United
+Made In New York Pizza, 421 Amsterdam Ave, New York, NY 10024, United States, United
