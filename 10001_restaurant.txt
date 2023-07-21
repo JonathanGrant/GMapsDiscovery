@@ -80,3 +80,6 @@ Golden City, 423 9th Ave, New York, NY 10001, United States, United
 La Chilaqueria New York, 139 W 28th St, New York, NY 10001, United States, United
 ilili Restaurant, 236 5th Ave, New York, NY 10001, United States, United
 Wee bistro, 366 W 31st St, New York, NY 10001, United States, United
+Shukette, 230 9th Ave, New York, NY 10001, United States, United
+sweetgreen, 7 Pennsylvania Plaza, New York, NY 10001, United States, United
+Hudson Yards Tavern, 360 9th Ave, New York, NY 10001, United States, United
