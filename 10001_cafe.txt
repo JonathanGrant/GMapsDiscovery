@@ -73,3 +73,4 @@ Dunkin', 10 W 33rd St, New York, NY 10001, United States, United
 Stumptown Coffee Roasters, 18 W 29th St, New York, NY 10001, United States, United
 Starbucks, Port Authority Bus Terminal, 494 8th Ave, New York, NY 10001, United States, United
 Bianco Latte NYC - Hudson Yards, 20 Hudson Yards c/o Ana Bar and Eatery, New York, NY 10001, United States, United
+Best Bagel & Coffee, 225 W 35th St A, New York, NY 10001, United States, United
