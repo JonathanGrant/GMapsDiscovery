@@ -82,3 +82,5 @@ Dos Caminos, 675 Hudson St, New York, NY 10014, United States, United
 Hudson Clearwater, 447 Hudson St, New York, NY 10014, United States, United
 Hudson Hound, 575 Hudson St, New York, NY 10014, United States, United
 Waverly Inn, 16 Bank St, New York, NY 10014, United States, United
+Aria Wine Bar, 14 Bedford St, New York, NY 10014, United States, United
+Nami Nori, 33 Carmine St, New York, NY 10014, United States, United
