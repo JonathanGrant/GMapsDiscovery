@@ -65,3 +65,4 @@ BETTY, 193 Henry St, New York, NY 10002, United States, United
 Dragon Bing, 115 Delancey St, New York, NY 10002, United States, United
 Russ & Daughters Cafe, 127 Orchard St, New York, NY 10002, United States, United
 Williamsburg Pizza Lower East Side, 277 Broome St, New York, NY 10002, United States, United
+Carlota, 14 Orchard St, New York, NY 10002, United States, United

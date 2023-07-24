@@ -85,3 +85,5 @@ Waverly Inn, 16 Bank St, New York, NY 10014, United States, United
 Aria Wine Bar, 14 Bedford St, New York, NY 10014, United States, United
 Nami Nori, 33 Carmine St, New York, NY 10014, United States, United
 Waverly Diner, 385 6th Ave, New York, NY 10014, United States, United
+Osteria Nonnino, 637 Hudson St, New York, NY 10014, United States, United
+Libertine, 684 Greenwich St, New York, NY 10014, United States, United
