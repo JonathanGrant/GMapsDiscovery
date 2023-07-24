@@ -5,14 +5,14 @@ from pathlib import Path
 import os
 
 
-def query_places(zip_code, keyword, api_key):
+def query_places(zip_code, keyword, api_key, zip_check=True):
     places = []
     url = "https://maps.googleapis.com/maps/api/place/textsearch/json?query={0}+in+{1}&key={2}".format(keyword, zip_code, api_key)
     
     while True:
         response = requests.get(url)
         data = json.loads(response.text)
-        places.extend([p for p in data['results'] if zip_code in p['formatted_address']])
+        places.extend([p for p in data['results'] if zip_code in p['formatted_address'] or not zip_check])
 
         if 'next_page_token' not in data:
             break
@@ -42,8 +42,9 @@ def update_file(places, filename):
 def run(zip_code, keyword):
     api_key = os.environ["GMAPS_API"]
 
-    places = query_places(zip_code, keyword, api_key)
-    update_file(places, f'{zip_code}_{keyword}.txt')
+    for prefix in ["", "new "]:
+        places = query_places(zip_code, prefix+keyword, api_key, zip_check=(prefix != 'climbing'))
+        update_file(places, f'{zip_code}_{keyword}.txt')
 
 for zip in ["10001", "10014", "10002", "10024"]:
     for kw in ["cafe", "climbing", "restaurant", "vegan"]:
