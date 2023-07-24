@@ -83,3 +83,6 @@ Wee bistro, 366 W 31st St, New York, NY 10001, United States, United
 Shukette, 230 9th Ave, New York, NY 10001, United States, United
 sweetgreen, 7 Pennsylvania Plaza, New York, NY 10001, United States, United
 Hudson Yards Tavern, 360 9th Ave, New York, NY 10001, United States, United
+Osamil, 5 W 31st St #8, New York, NY 10001, United States, United
+queensyard, 20 Hudson Yards, New York, NY 10001, United States, United
+Swagat Indian Restaurant, 205 W 29th St, New York, NY 10001, United States, United
