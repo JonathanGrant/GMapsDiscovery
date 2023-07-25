@@ -87,3 +87,6 @@ Nami Nori, 33 Carmine St, New York, NY 10014, United States, United
 Waverly Diner, 385 6th Ave, New York, NY 10014, United States, United
 Osteria Nonnino, 637 Hudson St, New York, NY 10014, United States, United
 Libertine, 684 Greenwich St, New York, NY 10014, United States, United
+Trattoria Pesce Pasta, 262 Bleecker St, New York, NY 10014, United States, United
+Glaze Teriyaki, 350 Hudson St, New York, NY 10014, United States, United
+Sushi Kai - West Village, 11 Barrow St, New York, NY 10014, United States, United
