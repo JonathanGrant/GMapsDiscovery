@@ -101,3 +101,6 @@ Uncle Jack's Steakhouse - Westside, 440 9th Ave, New York, NY 10001, United Stat
 Five Guys, 316 W 34th St., New York, NY 10001, United States, United
 Barn Joo 35, 34 W 35th St, New York, NY 10001, United States, United
 The Smith, 1150 Broadway, New York, NY 10001, United States, United
+L'Amico, 849 6th Ave, New York, NY 10001, United States, United
+Pennsylvania 6 NYC, 132 W 31st St, New York, NY 10001, United States, United
+Market Crates, 26 W 33rd St, New York, NY 10001, United States, United
