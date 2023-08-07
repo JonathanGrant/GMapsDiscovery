@@ -65,3 +65,4 @@ Charlotte Cafe, 2541 Broadway, New York, NY 10025, United States, United
 Jacob's Pickles, 509 Amsterdam Ave, New York, NY 10024, United States, United
 Sarabeth's, 423 Amsterdam Ave, New York, NY 10024, United States, United
 The Avenue, 480 Amsterdam Ave, New York, NY 10024, United States, United
+Hi Life Bar & Grill, 477 Amsterdam Ave, New York, NY 10024, United States, United
