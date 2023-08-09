@@ -104,3 +104,7 @@ The Smith, 1150 Broadway, New York, NY 10001, United States, United
 L'Amico, 849 6th Ave, New York, NY 10001, United States, United
 Pennsylvania 6 NYC, 132 W 31st St, New York, NY 10001, United States, United
 Market Crates, 26 W 33rd St, New York, NY 10001, United States, United
+Gosuke, 235 W 35th St, New York, NY 10001, United States, United
+The Bazaar by José Andrés, 35 W 28th St, New York, NY 10001, United States, United
+Mamazul NYC, 1155 Broadway, New York, NY 10001, United States, United
+Jimmy John's, 157 W 33rd St, New York, NY 10001, United States, United

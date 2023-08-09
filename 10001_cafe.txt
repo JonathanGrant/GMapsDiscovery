@@ -79,3 +79,5 @@ Starbucks, 875 6th Ave, New York, NY 10001, United States, United
 about time coffee, 355 7th Ave, New York, NY 10001, United States, United
 Feroce Caffe, 105 W 28th St First Floor, New York, NY 10001, United States, United
 Starbucks, 227 W 27th St, New York, NY 10001, United States, United
+Pret A Manger, 104 W 32nd St, New York, NY 10001, United States, United
+Birch Coffee, 423 8th Ave Kiosk A2, New York, NY 10001, United States, United
