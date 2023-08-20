@@ -99,3 +99,5 @@ Yuvik Restaurant, 100 Gansevoort St, New York, NY 10014, United States, United
 Cody, 684 Greenwich St, New York, NY 10014, United States, United
 Rosetta Pizza, 304 W 14th St, New York, NY 10014, United States, United
 Joe's Pizza, 7 Carmine St, New York, NY 10014, United States, United
+Jeffrey's Grocery, 172 Waverly Pl, New York, NY 10014, United States, United
+Fuku Omakase, BYOB (No Corkage Fee), 60 Min Per Session, 104 W Washington Pl, New York, NY 10014, United States, United
