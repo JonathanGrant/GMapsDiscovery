@@ -105,3 +105,4 @@ McDonald's, 114 Delancey St, New York, NY 10002, United States, United
 Ji Bei Chuan Noodles 季北川 NYC, 87 Chrystie St, New York, NY 10002, United States, United
 Toriya, 178 Stanton St, New York, NY 10002, United States, United
 Shake Shack Lower East Side, 131 Rivington St, New York, NY 10002, United States, United
+Forgtmenot, 138 Division St, New York, NY 10002, United States, United
