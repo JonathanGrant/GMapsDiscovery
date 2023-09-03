@@ -35,3 +35,4 @@ SOL Mexican Cocina, 220 5th Ave, New York, NY 10001, United States, United
 Van Leeuwen Ice Cream, 20 Hudson Yards, New York, NY 10001, United States, United
 Bites of Xian 32 西府小吃, 884 6th Ave, New York, NY 10001, United States, United
 VLife NYC, 348 7th Ave, New York, NY 10001, United States, United
+Juice Press, 35 Hudson Yards, New York, NY 10001, United States, United
