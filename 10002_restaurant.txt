@@ -144,3 +144,4 @@ Kaikagetsu NYC, 162 Orchard St, New York, NY 10002, United States, United
 Restaurant one, 7 Division St Suite 200, New York, NY 10002, United States, United
 Omelettos, 158 Orchard St, New York, NY 10002, United States, United
 Diller, 357 Grand St, New York, NY 10002, United States, United
+Freemans, Freeman Alley, New York, NY 10002, United States, United
