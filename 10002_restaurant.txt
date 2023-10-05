@@ -145,3 +145,4 @@ Restaurant one, 7 Division St Suite 200, New York, NY 10002, United States, Unit
 Omelettos, 158 Orchard St, New York, NY 10002, United States, United
 Diller, 357 Grand St, New York, NY 10002, United States, United
 Freemans, Freeman Alley, New York, NY 10002, United States, United
+Yung Sun, 47 E Broadway, New York, NY 10002, United States, United
