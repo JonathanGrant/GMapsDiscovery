@@ -124,3 +124,4 @@ Osamil, 5 W 31st St, New York, NY 10001, United States, United
 Pizza shop, 288 8th Ave, New York, NY 10001, United States, United
 TONDA Pizza, 1231 Broadway, New York, NY 10001, United States, United
 Kinn, Olly Olly Market, 601 W 26th St, New York, NY 10001, United States, United
+New Wonjo, 23 W 32nd St, New York, NY 10001, United States, United
