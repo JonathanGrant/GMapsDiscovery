@@ -147,3 +147,5 @@ Diller, 357 Grand St, New York, NY 10002, United States, United
 Freemans, Freeman Alley, New York, NY 10002, United States, United
 Yung Sun, 47 E Broadway, New York, NY 10002, United States, United
 Chomps Elysees, 88 Essex St Stall 51, New York, NY 10002, United States, United
+King Dumplings, 74 Hester St, New York, NY 10002, United States, United
+Dhamaka, 119 Delancey St, New York, NY 10002, United States, United
