@@ -77,3 +77,4 @@ E Broadway Pizza, 127 E Broadway, New York, NY 10002, United States, United
 E Broadway Pizza, 127a E Broadway, New York, NY 10002, United States, United
 Good Thanks Cafe, 131a Orchard St, New York, NY 10002, United States, United
 Chomps Elysees, 88 Essex St Stall 51, New York, NY 10002, United States, United
+Chomps-Élysées, 88 Essex St Stall 51, New York, NY 10002, United States, United
