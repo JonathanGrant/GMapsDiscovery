@@ -105,3 +105,6 @@ Here & Now NYC, 99 Allen St, New York, NY 10002, United States, United
 Ane Cafe, 47 Market St, New York, NY 10002, United States, United
 Kossar's Bagels & Bialys (LES), 367 Grand St, New York, NY 10002, United States, United
 Chomps-Élysées, 88 Essex St Stall 51, New York, NY 10002, United States, United
+Omelettos, 158 Orchard St, New York, NY 10002, United States, United
+BBF, 177 Ludlow St, New York, NY 10002, United States, United
+Sushi Oku, 22 Orchard St, New York, NY 10002, United States, United
