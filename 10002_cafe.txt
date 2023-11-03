@@ -109,3 +109,4 @@ Omelettos, 158 Orchard St, New York, NY 10002, United States, United
 BBF, 177 Ludlow St, New York, NY 10002, United States, United
 Sushi Oku, 22 Orchard St, New York, NY 10002, United States, United
 87 Ludlow, 87 Ludlow St, New York, NY 10002, United States, United
+McDonald's, 114 Delancey St, New York, NY 10002, United States, United
