@@ -122,3 +122,4 @@ Taco Bell, 230 Varick St, New York, NY 10014, United States, United
 Mēdüzā Mediterrania New York, 657 Hudson St, New York, NY 10014, United States, United
 Corner Bistro, 331 West 4th Street, New York, NY 10014, United States, United
 Emily: West Village, 35 Downing St, New York, NY 10014, United States, United
+sweetgreen, 226 Bleecker St, New York, NY 10014, United States, United
