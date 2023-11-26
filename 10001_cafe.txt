@@ -100,3 +100,5 @@ Capital One Café, 53 W 34th St., New York, NY 10001, United States, United
 Luna Coffee Shop, 121 W 29th St, New York, NY 10001, United States, United
 Pret A Manger, Pret A Manger, Penn Station Lower Level, Penn Station, Lower Level, 2 Pennsylvania Plaza, New York, NY 10001, United States, United
 Brooklyn Bagel & Coffee Company, 286 8th Ave, New York, NY 10001, United States, United
+Starbucks, 655 W 34th St., New York, NY 10001, United States, United
+Paris Baguette, 6 W 32nd St, New York, NY 10001, United States, United
