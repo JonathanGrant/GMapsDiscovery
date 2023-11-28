@@ -165,3 +165,8 @@ Tolo, 28 Canal St, New York, NY 10002, United States, United
 Carlota, 14A Orchard St, New York, NY 10002, United States, United
 Fossetta, 198 Allen St, New York, NY 10002, United States, United
 Champion Pizza Plus - Essex, 115 Essex St, New York, NY 10002, United States, United
+Cloud Vietnamese Restaurant, 79 Clinton St, New York, NY 10002, United States, United
+Mắm, 70 Forsyth St, New York, NY 10002, United States, United
+Factory Tamal, 34 Ludlow St, New York, NY 10002, United States, United
+Changle Xin Fan Zhuang, 36 Eldridge St, New York, NY 10002, United States, United
+E Noodle Chinatown, 26 Jefferson St, New York, NY 10002, United States, United
