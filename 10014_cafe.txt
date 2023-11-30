@@ -88,3 +88,4 @@ Starbucks, 230 Varick St, New York, NY 10014, United States, United
 Aux Merveilleux de Fred, 37 8th Ave, New York, NY 10014, United States, United
 Plant Shed, 40 1/2 8th Ave, New York, NY 10014, United States, United
 PlantShed, 46 8th Ave, New York, NY 10014, United States, United
+Michele Taste's, 521 West St, New York, NY 10014, United States, United
