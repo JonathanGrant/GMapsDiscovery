@@ -171,3 +171,4 @@ Factory Tamal, 34 Ludlow St, New York, NY 10002, United States, United
 Changle Xin Fan Zhuang, 36 Eldridge St, New York, NY 10002, United States, United
 E Noodle Chinatown, 26 Jefferson St, New York, NY 10002, United States, United
 Yopparai, 49 Clinton St, New York, NY 10002, United States, United
+Loho, 204 Clinton St, New York, NY 10002, United States, United
