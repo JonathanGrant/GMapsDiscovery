@@ -72,3 +72,4 @@ Christopher St, 135 Christopher St, New York, NY 10014, United States, United
 Triangle Loft, 675 Hudson St Fl. 5, New York, NY 10014, United States, United
 The West Coast, 95 Horatio St, New York, NY 10014, United States, United
 WXOU Bar, 558 Hudson St, New York, NY 10014, United States, United
+Bayard's Ale House, 533 Hudson St, New York, NY 10014, United States, United
