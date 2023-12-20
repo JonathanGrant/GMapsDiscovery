@@ -76,3 +76,4 @@ Cafe Eighty Two, 2282 Broadway, New York, NY 10024, United States, United
 Flor de Mayo, 484 Amsterdam Ave, New York, NY 10024, United States, United
 Bravo West Pizza, 2345 Broadway, New York, NY 10024, United States, United
 Cilantro NYC, 485 Columbus Ave, New York, NY 10024, United States, United
+Two Wheels Vietnamese, 426 Amsterdam Ave, New York, NY 10024, United States, United
