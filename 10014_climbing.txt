@@ -75,3 +75,4 @@ WXOU Bar, 558 Hudson St, New York, NY 10014, United States, United
 Bayard's Ale House, 533 Hudson St, New York, NY 10014, United States, United
 Golden Woks, 159 Christopher St, New York, NY 10014, United States, United
 Hogs & Heifers, 859 Washington St, New York, NY 10014, United States, United
+Balaboosta, 611 Hudson St, New York, NY 10014, United States, United
