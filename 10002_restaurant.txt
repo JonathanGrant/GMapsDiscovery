@@ -185,3 +185,4 @@ Eggs for president, 95 Delancey St, New York, NY 10002, United States, United
 Enoki Sushi, 280 Henry St, New York, NY 10002, United States, United
 Oti, 40 Clinton St, New York, NY 10002, United States, United
 A-1 Pizza Shop, 505 Grand St, New York, NY 10002, United States, United
+New Madison Street Pizza, 223 Madison St, New York, NY 10002, United States, United
