@@ -202,3 +202,5 @@ Meat and Bread, 201 Allen St Store 3, New York, NY 10002, United States, United
 The Oven’s Slice, 84 Rivington St, New York, NY 10002, United States, United
 Scarr's Pizza, 35 Orchard St, New York, NY 10002, United States, United
 Congee Village, 100 Allen St, New York, NY 10002, United States, United
+Subway, 221 E Broadway Store #1, New York, NY 10002, United States, United
+Two Bridges Luncheonette, 135 Division St, New York, NY 10002, United States, United
