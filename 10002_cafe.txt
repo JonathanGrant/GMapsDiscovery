@@ -137,3 +137,5 @@ La Isla cafe, 212 Delancey St #3503, New York, NY 10002, United States, United
 Kopitiam, 151 E Broadway, New York, NY 10002, United States, United
 Sen Saigon, 150 E Broadway, New York, NY 10002, United States, United
 Crispy New York, 41 Monroe St, New York, NY 10002, United States, United
+Happy Medium, 49 Market St, New York, NY 10002, United States, United
+TWO FIFTEEN, PUBLIC Hotel, 215 Chrystie St, New York, NY 10002, United States, United
