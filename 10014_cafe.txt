@@ -124,3 +124,4 @@ Anton's, 570 Hudson St, New York, NY 10014, United States, United
 Pastis, 52 Gansevoort St, New York, NY 10014, United States, United
 The Mary Lane, 99 Bank St, New York, NY 10014, United States, United
 Magnolia Bakery, 401 Bleecker St, New York, NY 10014, United States, United
+CLAUDE82, 187 West 4th Street, New York, NY 10014, United States, United
