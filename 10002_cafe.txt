@@ -149,3 +149,5 @@ COFFEE SHOP.L.C.P, 47 Market St, New York, NY 10002, United States, United
 Kisa, 205 Allen St, New York, NY 10002, United States, United
 Kin Gin, 107 Rivington St, New York, NY 10002, United States, United
 Oakberry Acai, 100 Stanton St, New York, NY 10002, United States, United
+Modern Coffee House, 105 E Broadway, New York, NY 10002, United States, United
+Oakberry Acai, 100 Stanton St, Manhattan, NY 10002, United States, United
